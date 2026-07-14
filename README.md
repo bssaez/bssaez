@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Kiara 👋
 
-<!--
-**bssaez/bssaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Electronics & Telecommunications Engineer** transitioning into **Business Intelligence and Data Analytics**.
 
-Here are some ideas to get you started:
+I enjoy transforming operational data into actionable insights through ETL processes, data modeling and interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 About Me
+
+- 📍 Based in Panama
+- 📊 Building Business Intelligence solutions with Power BI
+- 🧹 Passionate about ETL, data modeling and dashboard design
+- 🌱 Currently expanding my skills in SQL and Business Intelligence
+
+---
+
+## 🛠️ Technologies
+
+- Power BI
+- Power Query (M)
+- DAX
+- SQL
+- Excel
+- Python (Foundational)
+
+---
+
+## 📂 Featured Project
+
+### Airport UPS Reliability Analytics
+
+Business Intelligence solution developed to analyze historical UPS event logs through ETL automation, dimensional modeling and interactive dashboards.
+
+🔗 Check out the repository below.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: *https://www.linkedin.com/in/bssaez/* 
