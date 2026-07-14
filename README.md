@@ -8,7 +8,7 @@ I enjoy transforming operational data into actionable insights through ETL proce
 
 ## 💼 About Me
 
-- 📍 Based in Panama
+- 📍 Panama City, Panama
 - 📊 Building Business Intelligence solutions with Power BI
 - 🧹 Passionate about ETL, data modeling and dashboard design
 - 🌱 Currently expanding my skills in SQL and Business Intelligence
